@@ -1,0 +1,8 @@
+{
+     "name": "giuliapetit-avocat",
+     "version": "1.0.0",
+     "scripts": {
+       "dev": "serve .",
+       "build": "cp index.html dist/"
+     }
+   }
