@@ -1,9 +1,0 @@
-{
-  "name": "giuliapetit-avocat",
-  "version": "1.0.0",
-  "description": "Site web du Cabinet Giulia Petit - Avocate au Barreau de Marseille",
-  "scripts": {
-    "dev": "npx serve .",
-    "build": "echo 'No build needed'"
-  }
-}
