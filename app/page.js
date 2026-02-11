@@ -409,8 +409,7 @@ const HomePage = ({ navigate }) => {
               </h2>
               <p className="text-lg leading-relaxed mb-8 max-w-xl animate-fade-in delay-300" style={{ color: 'var(--text-light)' }}>
                 Avocate au Barreau de Marseille, je vous accompagne avec rigueur et bienveillance 
-                dans la défense de vos droits. Droit de la famille, droit pénal et conseil juridique — 
-                votre défense, ma priorité.
+                dans la défense de vos droits.
               </p>
               <div className="flex flex-wrap gap-4 animate-fade-in delay-400">
                 <button className="btn-primary" onClick={() => navigate('contact')}>
